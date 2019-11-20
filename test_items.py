@@ -1,6 +1,6 @@
 import time
 
-link = "http://selenium1py.pythonanywhere.com/catalogue2/coders-at-work_207/"
+link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
 def test_check_add_item_button(browser):
     browser.get(link)
